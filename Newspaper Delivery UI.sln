@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newspaper Delivery UI", "Newspaper Delivery UI\Newspaper Delivery UI.csproj", "{E97589B4-C587-4FA8-9824-E080C4A8CED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E97589B4-C587-4FA8-9824-E080C4A8CED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97589B4-C587-4FA8-9824-E080C4A8CED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97589B4-C587-4FA8-9824-E080C4A8CED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97589B4-C587-4FA8-9824-E080C4A8CED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903AE968-3A35-4615-969E-FC594A137633}
+	EndGlobalSection
+EndGlobal
